@@ -1,0 +1,22 @@
+.sample01{
+    background-color: green;
+}
+
+.sample01{
+    color: white;
+}
+
+main{
+    background-color: blue;
+}
+
+img{
+    width: 100px;
+    max-width: 600px;
+}
+
+table,form{
+    background-color: #00bfff;
+    margin: 40px auto 0px;
+    width: 500px;
+}
